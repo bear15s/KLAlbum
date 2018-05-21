@@ -31,6 +31,8 @@
 
 - (void)setupUI{
     self.postImageView = [[UIImageView alloc]init];
+    self.postImageView.contentMode = UIViewContentModeScaleAspectFill;
+    self.postImageView.clipsToBounds = YES;
     [self.contentView addSubview:self.postImageView];
     [self.contentView addSubview:self.bottomView];
     [self.contentView addSubview:self.selNumBtn];

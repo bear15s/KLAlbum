@@ -99,15 +99,15 @@
 		05B1DB8920AEDF4F00BF673C /* KLAlbumVIewController */ = {
 			isa = PBXGroup;
 			children = (
+				05B1DB9020AEDF4F00BF673C /* KLImageListCell.h */,
 				05B1DB8A20AEDF4F00BF673C /* KLImageListCell.m */,
+				05B1DB8F20AEDF4F00BF673C /* KLAlbumViewController.h */,
 				05B1DB8B20AEDF4F00BF673C /* KLAlbumViewController.m */,
 				05B1DB8C20AEDF4F00BF673C /* KLAlbumListCell.h */,
-				05B1DB8D20AEDF4F00BF673C /* UIButton+EnlargeTouchArea.h */,
-				05B1DB8E20AEDF4F00BF673C /* QMUIAsset+select.m */,
-				05B1DB8F20AEDF4F00BF673C /* KLAlbumViewController.h */,
-				05B1DB9020AEDF4F00BF673C /* KLImageListCell.h */,
 				05B1DB9120AEDF4F00BF673C /* KLAlbumListCell.m */,
 				05B1DB9220AEDF4F00BF673C /* QMUIAsset+select.h */,
+				05B1DB8E20AEDF4F00BF673C /* QMUIAsset+select.m */,
+				05B1DB8D20AEDF4F00BF673C /* UIButton+EnlargeTouchArea.h */,
 				05B1DB9320AEDF4F00BF673C /* UIButton+EnlargeTouchArea.m */,
 			);
 			path = KLAlbumVIewController;
